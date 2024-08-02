@@ -331,3 +331,4 @@ captures
 
 # sign config
 signing.properties
+app/play/release/output-metadata.json
